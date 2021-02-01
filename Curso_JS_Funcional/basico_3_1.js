@@ -14,7 +14,6 @@ Array.prototype.primeiro = function(){
 }
 
 // não funciona com arraow function
-
 Array.prototype.ultimoArrow = () => {
     console.log(this[0]);
 }
